@@ -2,6 +2,7 @@
   "docs": {
     "Overview": [
       "getting-started",
+      "migration-guide",
       "thread-model",
       "typeclasses",
       "schedulers",
